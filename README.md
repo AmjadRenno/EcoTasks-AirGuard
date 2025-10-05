@@ -9,7 +9,7 @@ Dev baseline: HTTP (API 5100 / Client 5188)  |  Hardened production profile: HTT
 
 ## 🎬 Live Demo Video
 
-[![Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-EcoTasks%20AirGuard-blue?style=for-the-badge)](./Demo.mp4)
+[![Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-EcoTasks%20AirGuard-blue?style=for-the-badge)](./screenshots/Demo.mp4)
 
 Watch our comprehensive demonstration showcasing:
 - 🏠 **Home Page** - Onboarding with AQI guide and system status
