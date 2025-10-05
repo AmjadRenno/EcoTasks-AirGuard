@@ -7,6 +7,20 @@ Dev baseline: HTTP (API 5100 / Client 5188)  |  Hardened production profile: HTT
 
 ---
 
+## 🎬 Live Demo Video
+
+[![Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-EcoTasks%20AirGuard-blue?style=for-the-badge)](./Demo.mp4)
+
+Watch our comprehensive demonstration showcasing:
+- 🏠 **Home Page** - Onboarding with AQI guide and system status
+- 📊 **Dashboard** - Live air quality data and 12-hour forecasts  
+- 🗺 **Interactive Map** - TEMPO coverage with city indicators
+- 🚨 **Smart Alerts** - Real-time filtering of unhealthy air conditions
+- 📄 **Reports** - Monthly trend analysis and PDF generation
+- 🐳 **Docker Deployment** - One-command containerized setup
+
+---
+
 ## 🔥 60‑Second Quick Start
 
 ```powershell
