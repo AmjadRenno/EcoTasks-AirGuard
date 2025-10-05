@@ -83,7 +83,26 @@ Client also loads `/appsettings.json` (served from `wwwroot`) for `ApiBaseUrl` f
 
 ---
 
-## 🚀 Running Locally (Without Docker)
+## � Application Screenshots
+
+Below are selected screenshots demonstrating key features of the EcoTasks AirGuard system:
+
+| Feature | Screenshot | Description |
+|----------|-------------|-------------|
+| 🏠 **Home Page** | ![Home](screenshots/Home.png) | Onboarding interface with AQI guide and system status overview |
+| 📊 **Dashboard** | ![Dashboard](screenshots/Dashboard%202.png) | Live air quality data with 12-hour PM2.5 forecast chart |
+| 🗺 **Air Quality Map** | ![Map](screenshots/Air%20Quality%20Map.png) | TEMPO coverage visualization with city-level AQI indicators |
+| 📄 **Reports** | ![Reports](screenshots/Reports.png) | Monthly/weekly trend analysis with comprehensive summaries |
+| 📤 **Send Report Modal** | ![Send Report](screenshots/Send%20Report.png) | Government reporting workflow with authority selection |
+| 🚨 **Alerts** | ![Alerts](screenshots/Live%20Air%20Quality%20Alerts.png) | Real-time alerts for cities exceeding healthy air thresholds |
+| 🧾 **PDF Export** | ![PDF](screenshots/pdf.png) | Generated PDF report sample (QuestPDF integration) |
+| ⚙️ **Swagger API** | ![Swagger](screenshots/Swagger%20UI.png) | Interactive API documentation and testing interface |
+| 🐳 **Docker Running** | ![Docker](screenshots/Docker%20Compose%20Running.png) | Container orchestration showing healthy API and Client services |
+| 🧱 **Architecture** | ![Architecture](screenshots/Architecture.png) | Visual Studio project structure (Client/Server/Shared separation) |
+
+---
+
+## �🚀 Running Locally (Without Docker)
 
 API:
 ```powershell
