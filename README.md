@@ -221,7 +221,7 @@ $env:OpenWeather__ApiKey="..."; $env:AirNow__ApiKey="..."; dotnet run
 ---
 
 ## 📜 License & Attribution
-NASA Space Apps Challenge 2025 submission. Data attribution & usage notes: *(add a dedicated file if required by judging)*.
+NASA Space Apps Challenge 2025 submission.
 
 ---
 
